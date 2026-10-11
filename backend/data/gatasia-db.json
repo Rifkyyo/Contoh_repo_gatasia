@@ -1,0 +1,48 @@
+{
+  "players": {
+    "player_d95a4d70-3521-482c-8454-9be35fb488dc": {
+      "id": "player_d95a4d70-3521-482c-8454-9be35fb488dc",
+      "name": "Penjelajah",
+      "avatar": "🧭",
+      "xp": 1750,
+      "quizzes": 40,
+      "provinces": 2,
+      "missions": 4,
+      "earned": [
+        "monas",
+        "saman",
+        "rumah",
+        "danau",
+        "collector",
+        "streak",
+        "explorer"
+      ],
+      "history": [
+        {
+          "icon": "🗺️",
+          "title": "Menyelesaikan Modul Provinsi",
+          "desc": "Berhasil menjawab kuis ekspedisi di Jelajahi Peta.",
+          "time": "Baru saja"
+        },
+        {
+          "icon": "🗺️",
+          "title": "Menyelesaikan Modul Provinsi",
+          "desc": "Berhasil menjawab kuis ekspedisi di Jelajahi Peta.",
+          "time": "Baru saja"
+        }
+      ],
+      "events": [
+        {
+          "xp": 1750,
+          "at": "2026-10-11T11:54:28.983Z",
+          "source": "profile-sync"
+        }
+      ],
+      "createdAt": "2026-10-11T11:54:28.983Z",
+      "updatedAt": "2026-10-11T11:54:28.983Z",
+      "streak": 0
+    }
+  },
+  "quizAttempts": [],
+  "missionClaims": {}
+}
